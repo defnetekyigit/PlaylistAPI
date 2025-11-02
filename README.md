@@ -8,10 +8,10 @@ This project was developed as part of **Assignment – SE4458 Software Construct
 ## Live Demo
 
 - **Deployment (Swagger UI):**  
- [https://playlist-api-476914-europe-west1.run.app/swagger](https://playlist-api-476914-europe-west1.run.app/swagger)
+ [https://playlist-api-468259205699.europe-west1.run.app/swagger/#/](https://playlist-api-468259205699.europe-west1.run.app/swagger/#/)
 
 - **API Base URL:**  
-  [https://playlist-api-476914-europe-west1.run.app/api/songs](https://playlist-api-476914-europe-west1.run.app/api/songs)
+  [https://playlist-api-468259205699.europe-west1.run.app](https://playlist-api-468259205699.europe-west1.run.app)
 
 ---
 
